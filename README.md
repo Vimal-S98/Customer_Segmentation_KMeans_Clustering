@@ -20,4 +20,4 @@ To group customers into distinct segments using unsupervised learning, helping b
 1. **Data Cleaning & Preprocessing**
 2. **Exploratory Data Analysis (EDA)**
 3. **Feature Scaling**
-4. **Clustering (K-Means, DBSCAN)**
+4. **Clustering (K-Means)**
