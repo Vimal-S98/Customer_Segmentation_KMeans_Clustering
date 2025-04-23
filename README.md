@@ -21,4 +21,3 @@ To group customers into distinct segments using unsupervised learning, helping b
 2. **Exploratory Data Analysis (EDA)**
 3. **Feature Scaling**
 4. **Clustering (K-Means, DBSCAN)**
-5. **Elbow Method / Silhouette Score**
