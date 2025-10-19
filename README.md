@@ -62,10 +62,12 @@ The dataset `Mall_Customers.csv` contains:
 ## Key Insights
 
 <img width="721" height="542" alt="image" src="https://github.com/user-attachments/assets/5b6c8c05-4d67-4ac0-b0aa-5107825915f5" />
+<img width="672" height="341" alt="image" src="https://github.com/user-attachments/assets/922c071a-43fd-4b0d-b560-6a7c6c1c0fcc" />
 
-- Target group would be cluster 1 which has a high spending score and high income.
-- 54 percent of cluster 1 shpoppers are women. We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster.
-- Cluster 2 presents an interesting opportunity to market to the customers for sales event on popular items.
+
+- Target group would be cluster 4 which has a high spending score and high income.
+- 54 percent of cluster 4 shpoppers are women. We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster.
+- Cluster 3 presents an interesting opportunity to market to the customers for sales event on popular items.
 - Gender distribution varies slightly across clusters
 
 
